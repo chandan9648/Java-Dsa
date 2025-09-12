@@ -27,7 +27,7 @@ public class DiamondShape {
             System.out.println();
         }
     }
-    
+    // main fn
     public static void main(String[] args) {
         DiamondShape(4);
     }
