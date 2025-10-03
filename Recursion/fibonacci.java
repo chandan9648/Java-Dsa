@@ -9,7 +9,7 @@ public class fibonacci{
         return fn;
     }
     public static void main(String[] args) {
-        int n =500;
+        int n =50;
         System.out.println(fib(n));
     }
 }
